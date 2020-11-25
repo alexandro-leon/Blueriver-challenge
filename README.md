@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Installing Angular
 
-For angular instalation, please refer to the offical documentation[here](https://angular.io/guide/setup-local)
+For angular instalation, please refer to the offical documentation [here.](https://angular.io/guide/setup-local)
