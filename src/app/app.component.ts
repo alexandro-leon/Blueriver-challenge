@@ -30,7 +30,6 @@ ngOnInit(){
         return bArray[0].items;
       }))
       .subscribe(res =>{
-        console.log(res);
         this.buildingsArray = res;
       })
     }
